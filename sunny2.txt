@@ -1,0 +1,5 @@
+Teacher: Why are you late, Ram?
+wordcount:  6Ram: Because of the sign.
+wordcount:  5Teacher: What sign?
+wordcount:  3Ram: The one that says " School Ahead, Go Slow"
+wordcount:  10
